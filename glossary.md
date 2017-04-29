@@ -1,5 +1,3 @@
-[Home](http://www.u4.no/)Glossary
-
 Glossary
 ========
 
