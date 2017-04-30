@@ -3,7 +3,7 @@ URL=https://cdn.rawgit.com/jshttp/mime-db/master/db.json
 
 [{5CBF2787-48CF-4208-B90E-EE5E5D420294}]
 ____Prop21      =   [?] FILE-DETAILS » DESCRIPTION
-    Prop21      =   31, A JSON database of all mime types that aggregates data f from the following sources: IANA.org, SVN.Apache.org, and HG.NGINX.com
+    Prop21      =   31, A JSON database of all mime types that aggregates data from the following sources: IANA.org, SVN.Apache.org, and HG.NGINX.com
 
 [{B9B4B3FC-2B51-4A42-B5D8-324146AFCF25}]
 ____Prop5______ =   [?] FILE-DETAILS » NOTES
