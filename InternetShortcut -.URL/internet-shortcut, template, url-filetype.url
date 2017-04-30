@@ -1,12 +1,12 @@
 [DEFAULT]
 ____BASEURL     =   [?] FILE-DETAILS » SHORTCUT-ADDRESS (LEGACY)
-    BASEURL     =   ╳╳╳╳╳╳╳
+    BASEURL     =   XXXXXXX
 
 [InternetShortcut]
 ____URL         =   [?] FILE-DETAILS » SHORTCUT-ADDRESS
     URL         =   19, 50
 ____IconFile    =   [?] FILE-DETAILS » FAVICON-PATH
-    IconFile    =   https://www.google.com/s2/favicons?domain=╳╳╳╳╳╳╳
+    IconFile    =   https://www.google.com/s2/favicons?domain=XXXXXXX
     HotKey      =   0
     IconIndex   =   1
     IDList      =   
@@ -17,12 +17,12 @@ ____Prop9       =   [?] FILE-DETAILS » STAR-RATING
 
 [{5CBF2787-48CF-4208-B90E-EE5E5D420294}]
 ____Prop21      =   [?] FILE-DETAILS » DESCRIPTION
-    Prop21      =   31, ╳╳╳╳╳╳╳
+    Prop21      =   31, XXXXXXX
 
 [{B9B4B3FC-2B51-4A42-B5D8-324146AFCF25}]
-____Prop5______ =   [?] FILE-DETAILS » NOTES
-    Prop5       =   31, ╳╳╳╳╳╳╳
+____Prop5       =   [?] FILE-DETAILS » NOTES
+    Prop5       =   31, XXXXXXX
 
 [{000214A0-0000-0000-C000-000000000046}]
-____Prop3______ =   [?] FILE-DETAILS » UNKNOWN
+____Prop3       =   [?] FILE-DETAILS » UNKNOWN
     Prop3       =   19, 11
