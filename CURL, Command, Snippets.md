@@ -1,6 +1,6 @@
-# 🏁 Useful CURL commands
+# Curl Snippets
 
-## 🚩 Capture CURL output to file
+## Capture CURL output to file
 
 # For individual requests
 
