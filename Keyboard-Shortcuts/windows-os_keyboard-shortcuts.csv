@@ -1,0 +1,2 @@
+"Hotkey", "Description", "Tagged"
+"SHIFT + F10", "Toggle right-click context menu at cursor position", "#context-menu, #navigation, #right-click"
