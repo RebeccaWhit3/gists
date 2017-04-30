@@ -4,7 +4,7 @@ ____BASEURL     =   [?] FILE-DETAILS » SHORTCUT-ADDRESS (LEGACY)
 
 [InternetShortcut]
 ____URL         =   [?] FILE-DETAILS » SHORTCUT-ADDRESS
-    URL         =   19, 50
+    URL         =   XXXXXXX
 ____IconFile    =   [?] FILE-DETAILS » FAVICON-PATH
     IconFile    =   https://www.google.com/s2/favicons?domain=XXXXXXX
     HotKey      =   0
