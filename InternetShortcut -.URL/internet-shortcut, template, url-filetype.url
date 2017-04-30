@@ -1,0 +1,27 @@
+[DEFAULT]
+____BASEURL     =   [?] FILE DETAILS » SHORTCUT ADDRESS (LEGACY)
+    BASEURL     =   ⁐⁐⁐⁐⁐
+[InternetShortcut]
+____URL         =   [?] FILE_DETAILS » SHORTCUT_ADDRESS
+    URL         =   19, 50
+____IconFile    =   [?] FILE_DETAILS » FAVICON_PATH
+    IconFile    =   https://www.google.com/s2/favicons?domain=⁐⁐⁐⁐⁐
+    HotKey      =   0
+    IconIndex   =   1
+    IDList      =   
+
+[{64440492-4C8B-11D1-8B70-080036B11A03}]
+____Prop9       =   [?] FILE DETAILS » STAR RATING
+    Prop9       =   19, 50
+
+[{5CBF2787-48CF-4208-B90E-EE5E5D420294}]
+____Prop21      =   [?] FILE DETAILS » DESCRIPTION
+    Prop21      =   31, ⁐⁐⁐⁐⁐
+
+[{B9B4B3FC-2B51-4A42-B5D8-324146AFCF25}]
+____Prop5______ =   [?] FILE DETAILS » NOTES
+    Prop5       =   31, ⁐⁐⁐⁐⁐
+
+[{000214A0-0000-0000-C000-000000000046}]
+____Prop3______ =   [?] FILE DETAILS » UNKNOWN
+    Prop3       =   19, 11
