@@ -1,4 +1,4 @@
-# Curl Snippets
+# cURL Snippets
 
 ## Capture CURL output to file
 
