@@ -46,9 +46,7 @@ checkImage(imageUrl, function(){
 
 #### _Chrome DevTools_
 
-```
-true
-```
+<kbd>true</kbd>
 
 </td></tr></tbody>
 </table>
