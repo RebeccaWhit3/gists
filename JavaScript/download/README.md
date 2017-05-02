@@ -1,5 +1,5 @@
-download
-========
+download.js
+===========
 
 > Forked from: https://github.com/rndme/download
 
