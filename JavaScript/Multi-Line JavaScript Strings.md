@@ -1,6 +1,9 @@
 Multi-Line JavaScript Strings
 =============================
 
+How to
+-----------------------------
+
 _Adapted from: [Multi-Line JavaScript Strings](https://davidwalsh.name/multiline-javascript-strings) by David Walsh on November 2, 2012_
 
 > The JavaScript language performs automatic semicolon insertion at the end lines, so creating multiline strings usually ends up looking something like this:
@@ -34,7 +37,7 @@ Skip the first line for reading/pasting convenience
   <tbody>
 <tr>
 
-<td><pre style="padding: 0px;">
+<td>
 
 ```js
 var multiStr = "\
@@ -43,8 +46,8 @@ This is the second line \
 This is more...";
 ```
 
-</pre></td>
-<td><pre>
+</td>
+<td>
 
 ```
 "This is the first line 
@@ -52,7 +55,7 @@ This is the second line
 This is more..."
 ```
 
-</pre></td></tr></tbody>
+</td></tr></tbody>
 </table>
 
 #### Personal recipe
@@ -71,7 +74,7 @@ This is more..."
   <tbody>
 <tr>
 
-<td><pre>
+<td>
 
 ```js
 var multiStr = "\
@@ -81,8 +84,8 @@ var multiStr = "\
 \n";
 ```
 
-</pre></td>
-<td><pre>
+</td>
+<td>
 
 ```
 "
@@ -92,5 +95,5 @@ This is more...
 "
 ```
 
-</pre></td></tr></tbody>
+</td></tr></tbody>
 </table>
