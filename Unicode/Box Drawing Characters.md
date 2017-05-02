@@ -6,7 +6,7 @@ Box Drawing Symbols
 
 > _Adapted from: [Wikipedia](https://en.wikipedia.org) » [Unicode](https://en.wikipedia.org/wiki/Unicode) » [Box Drawing](https://en.wikipedia.org/wiki/Box_Drawing)_
 
-### [Unicode Coverage](https://en.wikipedia.org/wiki/Unicode)
+### Unicode Coverage
 
 [Unicode](https://en.wikipedia.org/wiki/Unicode "Unicode") includes 128 such characters.<sup>[[1]](https://en.wikipedia.org/wiki/Box-drawing_character#cite_note-1)</sup> In many Unicode fonts only the subset that is also available in the [IBM PC](https://en.wikipedia.org/wiki/IBM_PC_compatible "IBM PC compatible") character set (see below) will exist, due to it being defined as part of the [WGL4](https://en.wikipedia.org/wiki/WGL4 "WGL4") character set.
 
