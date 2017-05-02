@@ -6,31 +6,42 @@ Superscript in Markdown
 Use the <sup></sup>tag (<sub></sub> is the equivalent for subscripts).
 
 <table class="js-csv-data csv-data js-file-line-container">
-  <thead><tr>
-    <th>Syntax</th>
-    <th>Preview (actual output)</th>
-  </tr></thead>
-  <tbody>
-    <tr><td>
+<thead><tr>
+<!-- A1-->
+<th>Syntax</th>
+<!-- B1-->
+<th>Preview (actual output)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<!-- A2 -->
+<td>
 
-    1. Superscript
-      ```md
-      <sup>HTML tag for Superscript text (bottom aligned text)</sup>
-      ```
-    2. Subscript
-      ```md
-      <sup>HTML tag for Superscript text (top aligned text)</sup>
-      ```
-    </td><td>
+  1. Superscript  
 
-    1. Superscript
+  ```md
+  <sup>HTML tag for Superscript text (bottom aligned text)</sup>
+  ```
+  2. Subscript  
 
-      ⇶ <sup>HTML tag for Super</sup>⇶<sup>script text (top aligned)</sup> ⇶
+  ```md
+  <sup>HTML tag for Superscript text (top aligned text)</sup>
+  ```
 
-    2. Subscript
+</td>
+<!-- B2 -->
+<td>
 
-      ⇶ <sub>HTML tag for Sub</sub>⇶<sub>script (bottom aligned)</sub> ⇶
+  1. Superscript  
 
-    </td></tr>
-  </tbody>
+  ⇶ <sup>HTML tag for Super</sup>⇶<sup>script text (top aligned)</sup> ⇶
+
+  2. Subscript  
+
+  ⇶ <sub>HTML tag for Sub</sub>⇶<sub>script (bottom aligned)</sub> ⇶
+
+</td>
+</tr>
+</tbody>
 </table>
