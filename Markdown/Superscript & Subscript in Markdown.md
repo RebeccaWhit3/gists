@@ -1,5 +1,8 @@
-Superscript in Markdown
+Superscript/Subscript in Markdown
 =======================
+
+How-to
+------
 
 > Adapted from: stackoverflow.com/a/15156585
 
