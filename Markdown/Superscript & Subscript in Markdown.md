@@ -18,12 +18,12 @@ Use the <sup></sup>tag (<sub></sub> is the equivalent for subscripts).
 <!-- A2 -->
 <td>
 
-  1. Superscript:   
+1. _**Superscript**_:   
 
   ```md
   <sup>HTML tag for Superscript text (bottom aligned text)</sup>
   ```
-  2. Subscript:  
+2. _**Subscript**_:  
 
   ```md
   <sup>HTML tag for Superscript text (top aligned text)</sup>
@@ -33,11 +33,11 @@ Use the <sup></sup>tag (<sub></sub> is the equivalent for subscripts).
 <!-- B2 -->
 <td>
 
-  1. Superscript  
+1. _**Superscript**_:
 
   ⇶ <sup>HTML tag for Super</sup>⇶<sup>script text (top aligned)</sup> ⇶
 
-  2. Subscript  
+2. _**Subscript**_: 
 
   ⇶ <sub>HTML tag for Sub</sub>⇶<sub>script (bottom aligned)</sub> ⇶
 
