@@ -1,7 +1,9 @@
-# download
+download
 ========
 
-## Summary
+> Forked from: https://github.com/rndme/download
+
+Summary
 ---------
 The download() function is used to trigger a file download from JavaScript. 
 
