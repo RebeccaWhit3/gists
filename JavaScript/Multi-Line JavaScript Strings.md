@@ -62,7 +62,7 @@ This is more..."
 1. New lines are escaped at the start of each line to make prefixing non-formatted text easy (benefits #2)
 1. Line separation for quotes surrounding string (benefits #2)
 1. Easier to decompile in general
-1. Linebreak before and after quotes output by Chrome DevTools when using console.log()   
+1. Linebreak before and after quotes output by Chrome DevTools when using ```js console.log()```
 
 <table class="js-csv-data csv-data js-file-line-container"><thead><tr>
   <th>Syntax</th>
