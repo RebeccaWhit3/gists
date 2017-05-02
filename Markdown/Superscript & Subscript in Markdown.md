@@ -8,9 +8,9 @@ Use the <sup></sup>tag (<sub></sub> is the equivalent for subscripts).
 <table class="js-csv-data csv-data js-file-line-container">
 <thead><tr>
 <!-- A1-->
-<th>Syntax</th>
+<th>Syntax:</th>
 <!-- B1-->
-<th>Preview (actual output)</th>
+<th>Resulting output:</th>
 </tr>
 </thead>
 <tbody>
@@ -18,12 +18,12 @@ Use the <sup></sup>tag (<sub></sub> is the equivalent for subscripts).
 <!-- A2 -->
 <td>
 
-  1. Superscript  
+  1. Superscript:   
 
   ```md
   <sup>HTML tag for Superscript text (bottom aligned text)</sup>
   ```
-  2. Subscript  
+  2. Subscript:  
 
   ```md
   <sup>HTML tag for Superscript text (top aligned text)</sup>
