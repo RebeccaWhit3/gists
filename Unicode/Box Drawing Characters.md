@@ -25,18 +25,18 @@ Box Drawing Symbols
 
 ##### Rendered within an SVG object
 
-<table><tr><td><kbd>
+<table  >
+<tr align="center"><td>
 
-[![Unicode Box Drawings Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Unicode_Box_Drawings_%282500_-_27FF%29.svg/770px-Unicode_Box_Drawings_%282500_-_27FF%29.svg.png)](https://en.wikipedia.org/wiki/File:Unicode_Box_Drawings_(2500_-_27FF).svg)
+**Unicode box-drawing symbols**<br>
+A rendering showing all 128 symbols _(as they should appear in the adjacent chart)_
+
+</tr></td>
+<tr align="center"><td><kbd>
+
+[![Unicode Box Drawings Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Unicode_Box_Drawings_%282500_-_27FF%29.svg/600px-Unicode_Box_Drawings_%282500_-_27FF%29.svg.png)](https://en.wikipedia.org/wiki/File:Unicode_Box_Drawings_(2500_-_27FF).svg)
 
 </kbd></td></tr>
-<tr>
-<td>
-
-**Unicode box-drawing symbols** — A rendering showing all 128 symbols _(as they should appear in the adjacent chart)_
-
-</tr>
-</td>
 </table>
 
 
