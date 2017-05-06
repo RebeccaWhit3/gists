@@ -1,36 +1,37 @@
-"URL <🔗>","Status <❓|✔️|☠>","Alias <📛>","Description <🗨>"
-"chrome://appcache-internals","🔗❓","N/A","N/A"
-"chrome://blob-internals","🔗❓","N/A","N/A"
-"chrome://bookmarks","🔗✔️","N/A","N/A"
-"chrome://cache","🔗✔️","N/A","N/A"
-"chrome://chrome-urls","🔗✔️📛","about:about","N/A"
-"chrome://conflicts","🔗❓","N/A","N/A"
-"chrome://crashes","🔗❓","N/A","N/A"
-"chrome://credits","🔗❓","N/A","N/A"
-"chrome://dns","🔗❓","N/A","N/A"
-"chrome://downloads","🔗✔️","N/A","N/A"
-"chrome://extensions","🔗✔️","N/A","N/A"
-"chrome://flags","🔗✔️","N/A","N/A"
-"chrome://flash","🔗❓","N/A","N/A"
-"chrome://gpu-internals","🔗❓","N/A","N/A"
-"chrome://histograms","🔗❓","N/A","N/A"
-"chrome://history","🔗✔️","N/A","N/A"
-"chrome://inspect/#devices","🔗❓","N/A","N/A"
-"chrome://ipc","🔗❓","N/A","N/A"
-"chrome://media-internals","🔗❓","N/A","N/A"
-"chrome://memory","🔗❓","N/A","N/A"
-"chrome://net-internals","🔗❓","N/A","N/A"
-"chrome://newtab","🔗❓","N/A","N/A"
-"chrome://plugins","🔗❓","N/A","N/A"
-"chrome://print","🔗❓","N/A","N/A"
-"chrome://quota-internals","🔗❓","N/A","N/A"
-"chrome://sessions","🔗❓","N/A","N/A"
-"chrome://starts","🔗❓","N/A","N/A"
-"chrome://sync-internals","🔗❓","N/A","N/A"
-"chrome://history/syncedTabs","🔗❓","N/A","N/A"
-"chrome://tcmalloc","🔗❓","N/A","N/A"
-"chrome://terms","🔗❓","N/A","N/A"
-"chrome://tracing","🔗❓","N/A","N/A"
-"chrome://version","🔗✔️","N/A","N/A"
-"chrome://view-http-cache","🔗❓","N/A","N/A"
-"chrome://workers","🔗❓","N/A","N/A"
+URL                             , Alias       , Description
+chrome://appcache-internals     , N/A         , N/A        
+chrome://blob-internals         , N/A         , N/A        
+chrome://bookmarks              , N/A         , N/A        
+chrome://cache                  , N/A         , N/A        
+chrome://chrome-urls            , about:about , N/A        
+chrome://conflicts              , N/A         , N/A        
+chrome://crashes                , N/A         , N/A        
+chrome://credits                , N/A         , N/A        
+chrome://dns                    , N/A         , N/A        
+chrome://downloads              , N/A         , N/A        
+chrome://extensions             , N/A         , N/A        
+chrome://flags                  , N/A         , N/A        
+chrome://flash                  , N/A         , N/A        
+chrome://gpu-internals          , N/A         , N/A        
+chrome://histograms             , N/A         , N/A        
+chrome://history                , N/A         , N/A        
+chrome://inspect/#devices       , N/A         , N/A        
+chrome://ipc                    , N/A         , N/A        
+chrome://media-internals        , N/A         , N/A        
+chrome://memory                 , N/A         , N/A        
+chrome://net-internals          , N/A         , N/A        
+chrome://newtab                 , N/A         , N/A        
+chrome://plugins                , N/A         , N/A        
+chrome://print                  , N/A         , N/A        
+chrome://quota-internals        , N/A         , N/A        
+chrome://sessions               , N/A         , N/A        
+chrome://starts                 , N/A         , N/A        
+chrome://sync-internals         , N/A         , N/A        
+chrome://history/syncedTabs     , N/A         , N/A        
+chrome://tcmalloc               , N/A         , N/A        
+chrome://terms                  , N/A         , N/A        
+chrome://tracing                , N/A         , N/A        
+chrome://version                , N/A         , N/A        
+chrome://view-http-cache        , N/A         , N/A        
+chrome://workers                , N/A         , N/A        
+                                
