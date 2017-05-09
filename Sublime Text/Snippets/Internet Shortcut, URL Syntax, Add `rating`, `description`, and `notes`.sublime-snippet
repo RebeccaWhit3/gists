@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+
+[{64440492-4C8B-11D1-8B70-080036B11A03}]
+____Prop9       =   [?] FILE-DETAILS » STAR-RATING
+    Prop9       =   19, ${1:50}
+
+[{5CBF2787-48CF-4208-B90E-EE5E5D420294}]
+____Prop21      =   [?] FILE-DETAILS » DESCRIPTION
+    Prop21      =   31, ${1:DESCRIPTION}
+
+[{B9B4B3FC-2B51-4A42-B5D8-324146AFCF25}]
+____Prop5       =   [?] FILE-DETAILS » NOTES
+    Prop5       =   31, ${1:NOTES}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>url+</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
